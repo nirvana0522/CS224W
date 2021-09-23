@@ -32,7 +32,7 @@
 
 In traditional ML pipeline, we need to apply feature engineering on the raw data, such as manually extracting features. Now we can use representation learning methods to automatically learn this features, and apply them directly to downstream prediction tasks.
 
-![image-20210920213252227](C:\Users\research\AppData\Roaming\Typora\typora-user-images\image-20210920213252227.png)
+![image-20210920213252227](https://raw.githubusercontent.com/zjwu522/CS224W/main/images/image-20210920213252227.png)
 
 ### Representation Learning
 
