@@ -23,7 +23,7 @@ So generally there are two kinds of features:
 
 ### Node-Level Features:
 
-##### ==Goal: Characterize the structure and position of a node in the network:==
+##### Goal: Characterize the structure and position of a node in the network:
 
 - Node degree
 - Node centrality
