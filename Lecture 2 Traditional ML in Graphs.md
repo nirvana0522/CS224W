@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Lecture 2: Traditional ML in Graphs
 
 ## 2.1 Traditional Feature-based Methods: Node-level
