@@ -210,9 +210,7 @@ For following two graphs which have 4 red nodes, we get the same feature vector 
 
 <img src="https://raw.githubusercontent.com/nirvana0522/CS224W/main/images/image-20210922231014885.png" alt="image-20210922231014885" style="zoom: 67%;" />
 
-So we could consider using **Bag of node degrees**:
-
-<img src="C:\Users\research\AppData\Roaming\Typora\typora-user-images\image-20210922231111855.png" alt="image-20210922231111855" style="zoom:67%;" />
+So we could consider using **Bag of node degrees**.
 
 Both **Graphlet Kernel** and **Weisfeiler-Lehman Kernel** use **Bag of *** representation of graph, where ***** is more sophisticated than node degrees.
 
@@ -257,7 +255,7 @@ Both **Graphlet Kernel** and **Weisfeiler-Lehman Kernel** use **Bag of *** repre
 
 - **Example**
 
-  <img src="https://raw.githubusercontent.com/nirvana0522/CS224W/main/images/image-20210922232354855.png" alt="image-20210922232354855" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/nirvana0522/CS224W/main/images/image-20210922232354855.png" alt="image-20210922232354855" style="zoom:67%;" />
 
 <img src="https://raw.githubusercontent.com/nirvana0522/CS224W/main/images/image-20210922232403609.png" alt="image-20210922232403609" style="zoom:67%;" />
 
