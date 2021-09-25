@@ -4,7 +4,7 @@
 
 ### Review
 
-Traditional ML</sub>2</sub> pipeline: design and obtain features for all training data regrading nodes, links and graphs, then train ML model to apply it to make a prediction.
+Traditional ML pipeline: design and obtain features for all training data regrading nodes, links and graphs, then train ML model to apply it to make a prediction.
 
 Graph data itself has features, but we are also interested in features that describe its local structure features, that is, the feature describes the topology of the network and structure features can help to make more accurate predictions.
 
