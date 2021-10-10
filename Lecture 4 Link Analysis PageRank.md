@@ -36,7 +36,7 @@
 - If page i with importance r_i has di out-links, each link gets r_i / d_i votes
 - Page j’s own importance r_j is the sum of the votes on its in-links
 
-<img src="C:\Users\research\AppData\Roaming\Typora\typora-user-images\image-20211009163557513.png" alt="image-20211009163557513" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/zjwu0522/CS224W/main/images/image-20211009163557513.png" alt="image-20211009163557513" style="zoom:67%;" />
 
 - A page is important if it is pointed to by other important pages
 
